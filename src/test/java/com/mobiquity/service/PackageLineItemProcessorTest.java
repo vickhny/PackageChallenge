@@ -14,7 +14,7 @@ import static org.junit.Assert.assertNotNull;
 
 
 /**
- * Unit test for ConfigurationParser
+ * Unit test for PackageLineItemProcessor
  */
 public class PackageLineItemProcessorTest {
     @Test
