@@ -23,3 +23,7 @@ Input sample
   `-`   
  2,7  
  8,9  
+ 
+ 
+### Requirement
+* Java 11
