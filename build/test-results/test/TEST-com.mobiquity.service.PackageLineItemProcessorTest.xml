@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mobiquity.service.PackageLineItemProcessorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-10T17:02:09" hostname="Vikashs-MacBook-Pro.local" time="0.031">
+  <properties/>
+  <testcase name="testConfigurationParser" classname="com.mobiquity.service.PackageLineItemProcessorTest" time="0.031"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

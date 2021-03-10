@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mobiquity.service.PackMainTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-10T17:02:09" hostname="Vikashs-MacBook-Pro.local" time="0.039">
+  <properties/>
+  <testcase name="testMain" classname="com.mobiquity.service.PackMainTest" time="0.012"/>
+  <testcase name="testPacker" classname="com.mobiquity.service.PackMainTest" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
